@@ -1,0 +1,12 @@
+# Arquivos compilados do Java
+bin/
+*.class
+
+# Logs e pacotes temporários
+*.log
+*.jar
+!lib/junit-platform-console-standalone-1.10.2.jar
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
